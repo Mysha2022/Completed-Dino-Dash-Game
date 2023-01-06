@@ -1,2 +1,2 @@
-# Completed-Dino-Dash-Game
-This is my  completed Dino Dash Game!!
+# C42RV_SpeedRacer_StudentActivity
+Student Activity
